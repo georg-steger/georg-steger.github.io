@@ -1,8 +1,8 @@
-.notion-property__title__icon-wrapper,
+/* .notion-property__title__icon-wrapper,
 .notion-header__content,
-.notion-toggle.bg-red,
 .notion-callout__icon,
 .notion-page__icon,
-.notion-navbar {
+.notion-navbar, */
+.notion-toggle.bg-red {
     display: none !important;
 }
